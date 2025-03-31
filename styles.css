@@ -1,0 +1,19 @@
+* {
+    border: 1px solid black;
+    font-family: sans-serif;
+    margin: 5px;
+}
+a{
+    border: 2px solid red;
+}
+.container {
+    border: 1px solid forestgreen;
+}
+body {
+    border: 1px solid blue;
+    width: 50%;
+}
+.container > div { 
+    border: 1px solid palevioletred; 
+    display: inline;
+ }
