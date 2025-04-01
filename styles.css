@@ -1,19 +1,44 @@
-* {
-    border: 1px solid black;
+.int > p > img{
+    width: 8em;
+    height: 8em;
+    margin: 1em;
+}
+.intro{
+    font-weight: bolder;
+}
+body{
+    font-size: 2em;
     font-family: sans-serif;
-    margin: 5px;
+    background-color: grey;
 }
-a{
-    border: 2px solid red;
+.int{
+    margin: 3em;
 }
-.container {
-    border: 1px solid forestgreen;
+h1{
+    text-decoration: underline;
+    text-align: center;
 }
-body {
-    border: 1px solid blue;
-    width: 50%;
+.int > p {
+    margin: 3em;
+    display: flex;
+    align-items: center;
 }
-.container > div { 
-    border: 1px solid palevioletred; 
-    display: inline;
- }
+.gta{
+    background-color: burlywood;
+}
+.mgs{
+    background-color: forestgreen;
+}
+.tlou {
+    background-color: bisque;
+}
+
+.gow3{
+    background-color: salmon;
+}
+.gow4{
+    background-color:cornflowerblue;
+}
+.rdr2{
+    background-color: rgb(189, 38, 38);
+}
